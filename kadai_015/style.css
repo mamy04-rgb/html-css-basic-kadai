@@ -1,0 +1,26 @@
+.html{
+    font-size: 20px;
+}
+
+.blue{
+  color:skyblue
+}
+
+.pink{
+  color:rgb(255, 192, 203);
+}
+
+.google-fonts {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text-center{
+  text-align: center;
+}
+
+#basic p {
+  font-weight: bold;
+}
